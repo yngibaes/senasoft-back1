@@ -1,0 +1,2 @@
+import { createContext } from "react" //Importamos la función de las librerias de React
+export const Context=createContext() //La función crea un nuevo objeto contexto, este se utiliza para compartir la data entre componentes de React.
